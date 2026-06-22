@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Noah_arts.aternos.me",
+    "ip": "Noah_arts.aternos.me:55301",
     "port": 55301,
     "version": "1.21.1"
   },
